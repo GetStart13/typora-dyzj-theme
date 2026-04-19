@@ -67,8 +67,8 @@
 }
 
 .cm-s-inner .cm-error {
-  color: #fff !important;
-  background-color: #ec5f67 !important;
+  color: inherit !important;
+  background-color: transparent !important;
 }
 
 .cm-s-inner .cm-tag.cm-bracket {
